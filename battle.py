@@ -137,13 +137,3 @@ while MainLoop == True:
 		print("quitting")
 		MainLoop = False
 
-
-#clear = lambda: os.system('cls') #on Windows System
-#clear()
-#print("Hello World")
-#name = input("What's your name? ")
-#clear()
-#print("Hello " + name)
-#age = input("How old are you? ")
-#clear()
-#print("your name is " + name + " and you are " + age + " years old.")
